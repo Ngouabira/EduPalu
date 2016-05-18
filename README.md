@@ -1,0 +1,2 @@
+# EduPalu_PhonrGap
+Application d’information sur le paludisme au Congo.  Cette application a pour objectif de délivrer un message simple et correct sur le paludisme au Congo.  EduPalu aura des fonctions ludiques comme un quiz ou la « chasse aux parasites ». EduPalu permettra également de localiser le centre de soin le plus proche de l’utilisateur.  Cette application encore en développement sera disponible sur internet mais également comme application Android pour smartphone.
