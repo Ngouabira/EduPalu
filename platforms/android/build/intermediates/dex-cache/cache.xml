@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Prince Youlou\EduPalu-PhoneGap\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1288cd2b324004db40b7e4cb2600e9d4fcd50f0f">
+        <dex dex="C:\Users\Prince Youlou\EduPalu-PhoneGap\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-unspecified-debug_ba8028f47a71cc9b89819ff0bff496a5bb360a63.jar" />
+    </item>
+
+</items>
